@@ -13,7 +13,7 @@ The project follows object-oriented programming principles with modular classes 
 **License:** Proprietary – All rights reserved
 
 <div align="center">
-  <img src="./public/club-management-system-uml.png" alt="Club Management System - UML Diagram" width="600" />
+  <img src="./public/club-management-system-uml.png" alt="Club Management System - UML Diagram" width="800" />
 </div>
 
 ---
