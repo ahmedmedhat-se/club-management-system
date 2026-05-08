@@ -1,5 +1,3 @@
-import model.User;
-
 public class Main {
     public static void main(String[] args) {
         // 1. Create a new User instance (MEMBER role)

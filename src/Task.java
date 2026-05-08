@@ -1,5 +1,3 @@
-package model;
-
 import java.util.Date;
 
 public class Task {
@@ -44,4 +42,4 @@ public class Task {
     public String toString() {
         return "[" + status + "] " + title;
     }
-}   
+}

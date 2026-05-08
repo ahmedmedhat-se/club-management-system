@@ -1,7 +1,3 @@
-package model;
-
-import java.util.Date;
-
 /**
  * Represents a user in the Sports Management System.
  *

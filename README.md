@@ -1,5 +1,3 @@
-Look I am gonna submit some files here for a club management system, look delete the model package, plus I will need a lot of enhancements in my README.md file
-
 # Club Management System
 
 > Developed by **Lojain Mohammed - Sereen Diab - Sama Ibrahim**
@@ -50,6 +48,16 @@ club-management-system/
 | Technology | Purpose | Version |
 |------------|---------|---------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | Core Backend Language | 17 |
+
+---
+## Installation
+
+### Prerequisites
+**Install Java Development Kit (JDK) 17 or higher**
+```bash
+java --version
+javac --version
+```
 
 ---
 ## License
