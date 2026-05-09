@@ -1,6 +1,6 @@
 # Club Management System
 
-> Developed by **Lojain Mohammed - Sereen Diab - Sama Ibrahim**
+> Developed by **Ahmed Medhat - Lojain Mohammed - Sereen Diab - Bassant Eid - Sama Ibrahim**
 
 ---
 ## Project Overview
@@ -8,7 +8,7 @@ The **Club Management System** is a desktop application built with Java and GUI 
 
 The project follows object-oriented programming principles with modular classes representing core entities like users, clubs, events, and tasks. It is ideal as an academic project demonstrating Java fundamentals, GUI development, system design, and practical management workflows.
 
-**Developed by:** Lojain Mohammed - Sereen Diab - Sama Ibrahim
+**Developed by:** Lojain Mohammed - Sereen Diab
 **Project Type:** GUI Desktop Application
 **License:** Proprietary – All rights reserved
 
@@ -34,7 +34,9 @@ club-management-system/
 │   ├── Achievment.java
 │   ├── Club.java
 │   ├── Event.java
+│   ├── LoginFrame.java
 │   ├── Main.java
+│   ├── MainFrame.java
 │   ├── MembershipRequest.java
 │   ├── Notification.java
 │   ├── Task.java
@@ -69,4 +71,4 @@ This software and associated documentation are proprietary and confidential. No 
 
 ---
 ## Author
-* **Ahmed Medhat / Lojain Mohamed**
+* **Ahmed Medhat**
