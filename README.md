@@ -16,6 +16,10 @@ The project follows object-oriented programming principles with modular classes 
   <img src="./public/club-management-system-uml.png" alt="Club Management System - UML Diagram" width="800" />
 </div>
 
+<div align="center">
+  <img src="./public/club-management-system-uml-2.png" alt="Club Management System - UML Diagram #2" width="800" />
+</div>
+
 ---
 ## Project Structure
 ### CLUB-MANAGEMENT-SYSTEM (Java + GUI)
